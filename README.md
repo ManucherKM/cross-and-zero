@@ -4,6 +4,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=EC652C)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=006FB9)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=F0DC4E)
 
 ## Web site
